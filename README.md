@@ -1,0 +1,14 @@
+- 👋 Hi, I’m Adeodatus Abdul NIYOKWIRINGIRA
+
+- 👀 I’m passionate about developing creative projects,
+
+- Stack: MERN, PERN
+- 📫 How to reach me
+   
+
+
+
+<!---
+Abdulkeza/Abdulkeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
