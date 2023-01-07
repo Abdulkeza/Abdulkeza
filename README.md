@@ -2,7 +2,7 @@
 
 - 👀 I’m passionate about developing creative projects,
 
-- Stack: MERN, PERN
+- Stack: MERN, PERN, + Java
 - 📫 How to reach me
    
 
