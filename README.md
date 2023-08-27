@@ -3,7 +3,8 @@
 - 👀 I’m passionate about developing creative projects,
 
 - Stack: MERN, PERN, + Java
-- 📫 How to reach me
+- 📫 How to reach me: Open Google search and type `Adeodatus Abdul` OR `Adeodatus NIYOKWIRINGIRA`, 
+  You gonna find me
    
 
 
