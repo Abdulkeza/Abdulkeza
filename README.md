@@ -4,7 +4,7 @@
 
 - Stack: MERN, PERN, + Java
 - 📫 How to reach me: Open Google search and type `Adeodatus Abdul` OR `Adeodatus NIYOKWIRINGIRA`, 
-  You gonna find me
+  You'll find me
    
 
 
